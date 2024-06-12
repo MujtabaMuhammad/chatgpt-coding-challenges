@@ -1,0 +1,78 @@
+Sure! Here is a list of 25 beginner-level Python exercises designed to help you practice basic programming concepts:
+
+1. **Print "Hello, World!"**
+   - Write a Python program to print "Hello, World!" to the console.
+
+2. **Sum of Two Numbers**
+   - Write a program to take two numbers as input and print their sum.
+
+3. **Simple Calculator*
+   - Create a program that asks the user for two numbers and an arithmetic operation (+, -, *, /) and prints the result.
+
+4. **Even or Odd**
+   - Write a Python program to check if a number entered by the user is even or odd.
+
+5. **Largest of Three Numbers**
+   - Write a program to find the largest of three numbers entered by the user.
+
+6. **Leap Year Checker**
+   - Create a program to check if a given year is a leap year.
+
+7. **Factorial of a Number**
+   - Write a function to calculate the factorial of a number.
+
+8. **Fibonacci Sequence**
+   - Write a program to print the first n numbers in the Fibonacci sequence.
+
+9. **Sum of Natural Numbers**
+   - Write a program to find the sum of the first n natural numbers.
+
+10. **Reverse a String**
+    - Create a program that takes a string as input and prints it in reverse.
+
+11. **Palindrome Checker**
+    - Write a program to check if a given string is a palindrome.
+
+12. **Count Vowels in a String**
+    - Write a Python function to count the number of vowels in a given string.
+
+13. **List of Squares**
+    - Write a program that creates a list of squares of numbers from 1 to n.
+
+14. **List Comprehension**
+    - Use list comprehension to create a list of even numbers from 1 to 50.
+
+15. **Dictionary from Two Lists**
+    - Write a program to create a dictionary from two lists, one of keys and one of values.
+
+16. **Merge Two Dictionaries**
+    - Write a program to merge two dictionaries.
+
+17. **Remove Duplicates from List**
+    - Write a program to remove duplicates from a list.
+
+18. **Find the Largest Number in a List**
+    - Write a function to find the largest number in a list.
+
+19. **Count Occurrences in a List**
+    - Write a program to count the occurrences of each element in a list.
+
+20. **Sum of Elements in a List**
+    - Write a function to find the sum of all elements in a list.
+
+21. **List to String**
+    - Write a program to convert a list of characters into a string.
+
+22. **String to List**
+    - Write a program to convert a string into a list of characters.
+
+23. **Character Frequency in String**
+    - Write a program to count the frequency of each character in a string.
+
+24. **Check for Substring**
+    - Write a program to check if a given substring is present in a string.
+
+25. **Simple Interest Calculator**
+    - Create a program to calculate simple interest given principal, rate, and time.
+
+These exercises cover basic input/output, control flow, loops, functions, strings, lists, and dictionaries, providing a solid foundation for beginners in Python programming.
